@@ -19,5 +19,5 @@ function MapCpmponent(props) {
 };
 
 export default GoogleApiWrapper({
-    apiKey: 'Enter your Api kew from console.cloud.google',
+    apiKey: 'AIzaSyCWjxfiQrpOHAc90w8YJrvuvTQXlKOWALM',
 })(MapCpmponent);
