@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Api Key
+
+Make sure to place your apiKey in Map.jsx for proper functioning of the map. 
+
 ## Available Scripts
 
 In the project directory, you can run:
